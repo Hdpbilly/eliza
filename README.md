@@ -28,7 +28,7 @@
 # Getting Started
 
 **Prerequisites (MUST):**
-
+-   [Documentation](https://ai16z.github.io/eliza/docs/intro/#)
 -   [Python 2.7+](https://www.python.org/downloads/)
 -   [Node.js 23.1+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 -   [pnpm](https://pnpm.io/installation)
